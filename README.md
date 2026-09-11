@@ -14,51 +14,23 @@
 - Member 2: Athira - CEC
 
 ### Project Description
-[2-3 lines about what your project does]
+A.M.N (Aliya Maari Nilku) – A Gloriously Unnecessary Proximity Shaming Device
+An Arduino contraption that solves a problem nobody actually asked it to solve: it uses an ultrasonic sensor to detect when you're standing too close to someone, then passive-aggressively insults you about it via an OLED display, blinks an LED like it's judging you, and beeps with increasing urgency until you take the hint. It doesn't fix your personal space issues it just narrates them, with escalating sarcasm and a "closing speed" feature so it can roast you even faster.
 
 ### The Problem (that doesn't exist)
-[What ridiculous problem are you solving?]
+An Arduino contraption built to fix a crisis nobody was having: people standing slightly too close to each other, a situation humanity has survived for millennia without electronic intervention. It uses an ultrasonic sensor to detect the "violation," then passive-aggressively roasts you on an OLED display, blinks an LED like it's personally disappointed in you, and beeps with escalating urgency  because apparently saying "hey, back up" out loud was too much to ask. Bonus: it even detects how fast you're invading someone's space, so it can judge you in real time.
 
 ### The Solution (that nobody asked for)
-[How are you solving it? Keep it fun!]
-
+An Arduino contraption engineered to fix a problem that solved itself for thousands of years with a simple "excuse me": people standing too close. It uses an ultrasonic sensor to detect the "violation," then passive-aggressively roasts you on an OLED display, blinks an LED like it's personally judging your life choices, and beeps with escalating urgency until you back off. It even tracks how fast you're invading someone's space — because regular judgment apparently wasn't extra enough.
 ## Technical Details
 ### Technologies/Components Used
-For Software:
-- [Languages used]
-- [Frameworks used]
-- [Libraries used]
-- [Tools used]
 
-For Hardware:
-- [List main components]
-- [List specifications]
-- [List tools required]
-
-### Implementation
-For Software:
-# Installation
-[commands]
-
-# Run
-[commands]
-
-### Project Documentation
-For Software:
-
-# Screenshots (Add at least 3)
-![Screenshot1](Add screenshot 1 here with proper name)
-*Add caption explaining what this shows*
-
-![Screenshot2](Add screenshot 2 here with proper name)
-*Add caption explaining what this shows*
-
-![Screenshot3](Add screenshot 3 here with proper name)
-*Add caption explaining what this shows*
-
-# Diagrams
-![Workflow](Add your workflow/architecture diagram here)
-*Add caption explaining your workflow*
+- Arduino UNO
+- OLED Display
+- HC-SR04
+- LED
+- BUZZER
+- Arduino IDE
 
 For Hardware:
 

@@ -134,8 +134,8 @@ The completed prototype was tested at different distances to verify the correspo
 [▶ Watch the Demo Video](demo.mp4)
 
 ## Team Contributions
-- [ATHIRA ANILKUMAR]: [Hardware testing and integration , circuit assembly, testing and documentation]
-- [NISSY ELSA SUNIL]: [Hardware testing and integration , circuit assembly, testing and documentation]
+- ATHIRA ANILKUMAR: Hardware testing and integration , circuit assembly, testing and documentation
+- NISSY ELSA SUNIL: Hardware testing and integration , circuit assembly, testing and documentation
 ---
 Made with ❤️ at TinkerHub Useless Projects 
 

@@ -2,17 +2,16 @@
 
 
 
-# [Project Name] 🎯
+# A.M.N (Aliya Maari Nilku) 🎯
 
 
 ## Basic Details
-### Team Name: [Name]
+### Team Name: The Unplanned
 
 
 ### Team Members
-- Team Lead: [Name] - [College]
-- Member 2: [Name] - [College]
-- Member 3: [Name] - [College]
+- Member 1: Nissy - CEC
+- Member 2: Athira - CEC
 
 ### Project Description
 [2-3 lines about what your project does]
